@@ -1,6 +1,4 @@
-Hello! I'm Brett, a Full-Stack Web Specialist with a background in web development, design, and solutions-based work.
-
-My skillset is tailored specifically for handling complex web-related projects and problems that normally require the commitment of members across multiple skillsets to solve, but due to budgetary reasons and/or lack of available resources, is not possible.
+Hello! I'm Brett, a Full-Stack Web Specialist with a background in web development, design, and strategy.
 
 I've been working on a lot of developer tooling lately. Below is my latest release:
 
