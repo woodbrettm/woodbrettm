@@ -1,4 +1,4 @@
-I'm Brett, a Full-Stack Web Specialist with a background in web development, design, and strategy.
+I'm Brett, a Full-Stack Web Specialist with a background in web development, design, and solution architecture.
 
 I've been working on a lot of developer tooling lately. Below is my latest release:
 
