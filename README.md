@@ -1,1 +1,1 @@
-I'm Brett, a Digital Solutions Specialist. Welcome to my profile 👋
+I'm Brett, a Digital Architect. Welcome to my profile 👋
